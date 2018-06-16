@@ -7,7 +7,7 @@ import FWCore.ParameterSet.Config as cms
 
 from Configuration.StandardSequences.Eras import eras
 
-process = cms.Process('RECO',eras.Run2_2018)
+process = cms.Process('MYRECO',eras.Run2_2018)
 
 # import of standard configurations
 process.load('Configuration.StandardSequences.Services_cff')
