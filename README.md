@@ -1,5 +1,16 @@
 # EcalAlCaReco
 
+Where:
+
+    /afs/cern.ch/work/a/amassiro/ECAL/CMSSW_10_1_1/src/ECALValidation/EcalAlCaReco/
+    
+    
+    mkdir EcalValidation
+    cd EcalValidation
+    git clone git@github.com:amassiro/EcalAlCaReco.git
+
+    
+    
 Private rereco:
 
     cmsDriver.py step21 --mc --eventcontent AODSIM,ALCARECO runUnscheduled --datatier AODSIM,ALCARECO   \

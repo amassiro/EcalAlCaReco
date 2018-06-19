@@ -24,3 +24,7 @@ Multicrab
 
     python multicrab.py crab_projects_Jun18_2018_rawreco_v1 status
     python multicrab.py crab_projects_Jun18_2018_rawreco_v1 resubmit
+
+    
+    python multicrab.py crab_projects_Jun18_2018_rawreco_v2 status
+    
